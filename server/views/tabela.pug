@@ -1,0 +1,10 @@
+include includes/main.pug
+head 
+    link(rel='stylesheet', href='/css/index.css', type='text/css')
+body
+    div(class='tabela')
+        each time, indice in times
+            li= indice + " - " + time
+        
+        
+        

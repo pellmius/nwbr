@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/express": "^4.17.12",
+    "@types/pug": "^2.0.4",
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
